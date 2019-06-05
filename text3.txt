@@ -1,0 +1,1 @@
+ tekst dopiany przez fopen w+
