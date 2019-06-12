@@ -126,5 +126,21 @@ echo $calc3->getSum() . '<br>';
 
 // @todo konstruktory
 
+class A {
+    public $a4 = 0;
+    
+    public function getObj(): A {
+        $object = new A();
+        $object->a4 = 4;
+
+        return $object;
+    }
+}
+
+$a = new A();
+$b = $a->getObj();
+print_r($a);
+print_r($b);
+
 ?>
 </pre>
