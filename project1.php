@@ -2,6 +2,9 @@
     <body>
         <pre>
 <?php
+// Projekt proszę wysłać na krzysztofsiadul@gmail.com
+// 
+// 
 // Napisać stronę posiadającą mechanizm rejestracji, która składa się z co najmniej 4 podstron
 // I podstrona - strona główna
 //               - jeżeli użytkownik jest zalogowany - wyświetlająca dane użytkownika - login, imię, nazwisko, adres

@@ -40,9 +40,9 @@
     }
     
     class Programista extends Czlowiek {
-//        public function powitanie(): void {
-//            echo $this->komunikat . 'Hello World<br>';
-//        }
+        public function powitanie(): void {
+            echo $this->komunikat . 'Hello World<br>';
+        }
     }
     class Student extends Czlowiek {
         public function powitanie(): void {
