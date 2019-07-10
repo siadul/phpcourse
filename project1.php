@@ -25,7 +25,7 @@
 // IV podstrona - wyloguj się
 
 // założenia:
-// - informację o tym czy użytkownik jest zalogowany czy nie przechowywujemy na sesji
+// - informację o tym czy użytkownik jest zalogowany czy nie przechowujemy na sesji
 // - po zamknięciu przeglądarki użytkownik powinien zostać wylogowany
 // - po ponownym otwarciu przeglądarki, użytkownik ma możliwość zalogowania się na konto, które utworzył przed jej zamknięciem
 

@@ -135,15 +135,5 @@
     // (date_create, date_format itp. vs metody DateTime + 
     // konstruktor itp.)
     
-    // Zadanie
-    // Wypisać wszystkie piątki 13 w roku
-    // a) 2019 // mktime
-    // b) 1 // DateTime - DateInterval? +n days?
-    // c) napisać ogólną funkcję, która przyjmuje rok jako argument
-    //    i zwraca wszystkie piątki 13 w tym roku
-    
-    
-    
-
     ?>
 </pre>
